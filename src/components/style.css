@@ -1,0 +1,27 @@
+/* main compoenent */
+
+
+.main-page{
+    background-color: peachpuff;
+    border:1px solid black;
+}
+
+.table-header{
+    background-color:#DE7E5D;
+}
+
+
+.input-form{
+    background-color: peachpuff;
+    margin-bottom: 20px;
+    width:100%;
+}
+
+@media screen and (max-width: 786px) {
+   .nameinput,.areainput,.categoryinput,.dateinput{
+    width:100%;
+    min-width:70%;
+   }
+  
+
+  }
